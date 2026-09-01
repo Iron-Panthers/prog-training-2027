@@ -5,6 +5,7 @@ public class Main{
       System.out.println("Hi! Write your comment in the lines below!");
       // This is an example comment.
       // Hi, my name is Alisa
+      // Hello, my name is Augustine
       System.out.println("Write your quote here!");
   }
 }
